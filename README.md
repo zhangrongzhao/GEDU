@@ -1,1 +1,1 @@
-# GEDU
+# Learning javascript Patterns -- classic (GoF)
